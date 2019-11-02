@@ -2,7 +2,7 @@
 
 An example project that accompanies my tutorial on using Azure Functions Java and Pusher Beams for Android Notifications.
 
-https://pusher.com/tutorials/azure-python-android-notifications
+http://pusher.com/tutorials/azure-function-python-android-notifications
 ## Getting Started
 
 Clone or download the repo onto your machine. Open the Go function in your favourite text editor and the Android App in Android studio.
